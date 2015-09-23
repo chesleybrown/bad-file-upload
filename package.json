@@ -1,0 +1,23 @@
+{
+	"name": "bad-file-upload",
+	"description": "An example of handling uploads poorly using NodeJS.",
+	"version": "0.0.1",
+	"private": true,
+	"main": "app/server.js",
+	"engines": {
+		"node": "4.1.1",
+		"npm": "2.14.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/chesleybrown/bad-file-upload.git"
+	},
+	"dependencies": {
+		"express": "4.13.3"
+	},
+	"devDependencies": {
+		"chai": "3.3.0",
+		"mocha": "2.3.3",
+		"supertest": "1.1.0"
+	}
+}
