@@ -1,0 +1,6 @@
+{
+	"name": "bad-file-upload",
+	"description": "An example of handling uploads poorly using NodeJS.",
+	"repository": "https://github.com/chesleybrown/bad-file-upload",
+	"keywords": ["node", "express", "file upload"],
+}
