@@ -26,3 +26,6 @@ To execute all the tests, just run:
 ```
 $ npm test
 ```
+
+## Contact
+You can follow me on twitter at [@Chesley](https://twitter.com/Chesley)
