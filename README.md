@@ -5,13 +5,13 @@
 
 An example of handling uploads poorly using NodeJS.
 
-# Running on Heroku
+## Running on Heroku
 
 You can just deploy a free instance of the app on heroku using the button below:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-# Running Locally
+## Running Locally
 
 Server runs on port `3000` by default, but will use the port set
 on the environment variable `PORT` if set.
